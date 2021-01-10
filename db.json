@@ -1,0 +1,94 @@
+{
+  "works": [
+    {
+      "id": 1,
+      "title": "Plan International Suomi",
+      "content": "Vuosikertomuksen suunnittelu ja koodaus.",
+      "date": "2020",
+      "type": "web-suunnittelu", 
+      "important": true,
+      "image": "kuva1.jpg",
+      "link": "https://plan.fi/toiminta2019/"
+    },
+    {
+      "id": 2,
+      "title": "Viz Knowledge",
+      "content": "Aalto-yliopiston vuosittaisen seminaarin verkkosivujen koodaus ja ylläpito. Ulkoasu: Saara Majanne; datavisualisointi: Darius Pacauskas.",
+      "date": "2019",
+      "type": "web-suunnittelu",
+      "important": false,
+      "image": "kuva2.png",
+      "link": "https://vizknowledge.aalto.fi/archive/2019/"
+    },
+    {
+      "id": 3,
+      "title": "Creative Futures",
+      "content": "Luovien alojen tärkeydestä kertovan verkkosivuston koodaus Aalto-yliopistolle. Ulkoasu ja interaktiivinen pääkuva: Julia Sand; infografiikat: Ilkka Malin.",
+      "date": "2019",
+      "type": "web-suunnittelu",
+      "important": false,
+      "image": "kuva2.png",
+      "link": "https://creativefutures.aalto.fi/"
+    },
+    {
+      "id": 4,
+      "title": "Slime volleyball homage",
+      "content": "Kevyt selaimessa toimiva kaksinpeli. Kunnianosoitus pelille, jota lukioaikana paljon hakattiin välitunneilla. Kurssityö, toteutettu P5-kirjastolla.",
+      "date": "2019",
+      "type": "koodi",
+      "important": false,
+      "image": "kuva2.png",
+      "link": "https://l8-nite-volley.glitch.me/"
+    },
+    {
+      "id": 5,
+      "title": "Kaltaisesi demo",
+      "content": "Kuinka moni kansanedustajista muistuttaa sinua? Ylelle työnhaun yhteydessä Reactilla tehty käyttöliittymätehtävä.",
+      "date": "2019",
+      "type": "koodi",
+      "important": false,
+      "image": "kuva2.png",
+      "link": "https://leokosola.github.io/kaltaisesi/"
+    },
+    {
+      "id": 6,
+      "title": "Kuntavaalit demo",
+      "content": "Vuoden 2017 ehdokkaista suurin osa oli miehiä. Ylelle työnhaun yhteydessä tehty data- ja grafiikkaharjoitus.",
+      "date": "2019",
+      "type": "koodi",
+      "important": false,
+      "image": "kuva2.png",
+      "link": "https://leokosola.github.io/kuntavaalidata/"
+    },
+    {
+      "id": 7,
+      "title": "Yle Uutiset",
+      "content": "Uutisjuttuja verkkoon, telkkariin ja radioon Ylen uutis- ja ajankohtaistoiminnan tiede, terveys ja elämäntapa -toimituksessa.",
+      "date": "2020",
+      "type": "journalismi",
+      "important": false,
+      "image": "kuva2.png",
+      "link": "https://yle.fi/uutiset/3-11504339"
+    },
+    {
+      "id": 8,
+      "title": "Helsingin Sanomat",
+      "content": "Työskentelin datajournalistina HS:n data deskissä. Työ oli osa Google News Labin 2018 Fellowship -ohjelmaa, johon pääsin ainoana Suomesta.",
+      "date": "2018",
+      "type": "journalismi",
+      "important": false,
+      "image": "kuva2.png",
+      "link": "https://dynamic.hs.fi/2018/varallisuuserot/"
+    },
+    {
+      "id": 9,
+      "title": "Tiedeykkönen",
+      "content": "Inserttejä ja kokonaisia ohjelmia viikoittaiseen Yle Radio 1:n tiedeohjelmaan.",
+      "date": "2016",
+      "type": "journalismi",
+      "important": false,
+      "image": "kuva2.png",
+      "link": "https://areena.yle.fi/audio/1-3855664"
+    }
+  ]
+}
